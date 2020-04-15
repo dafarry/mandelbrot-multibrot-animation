@@ -9,7 +9,7 @@ into an animation.
 
 Installation instructions for the Python libraries and gifsicle are below.
 
-![Mandelbrot multibrot animation](multibrot.gif]
+![Mandelbrot multibrot animation](multibrot.gif)
 
 Installation instructions for Python libraries
 ----------------------------------------------
